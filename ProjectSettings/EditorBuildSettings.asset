@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Electromagnetism/Scenes/GameScene.unity
+    guid: 3f7a3125daa0eb24186c4d2c3efa1279
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 36c5d319e31e5b742b68ada362dfdc9f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d86bb12f038f412419c8d9ed26bf7e74, type: 2}

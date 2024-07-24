@@ -1,0 +1,284 @@
+{
+    "scenes": [
+       {
+        "name": "Scene1",
+        "questions":[
+            {
+                "body": "Identify the electric field for the two positively charged particles",
+                "options": [
+                    "answer1",
+                    "answer2",
+                    "answer3",
+                    "answer4"
+                ],
+                "figure": "",
+                "hasImage": false
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P2 > P3",
+                    "P2 = P1 > P3",
+                    "P3 = P2 > P1",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure1",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure1",
+                "hasImage": true
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P2 > P3",
+                    "P2 = P1 > P3",
+                    "P3 = P2 > P1",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure2",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure2",
+                "hasImage": true
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P2 > P3",
+                    "P2 = P1 > P3",
+                    "P3 = P2 > P1",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure3",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure3",
+                "hasImage": true
+            }
+        ]
+       },
+       {
+        "name": "Scene2",
+        "questions":[
+            {
+                "body": "Identify the electric field for the two negatively charged particles",
+                "options": [
+                    "answer1",
+                    "answer2",
+                    "answer3",
+                    "answer4"
+                ],
+                "figure": "",
+                "hasImage": false
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P2 > P3",
+                    "P2 = P1 > P3",
+                    "P3 = P2 > P1",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure1",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure1",
+                "hasImage": true
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P2 > P3",
+                    "P2 = P1 > P3",
+                    "P3 = P2 > P1",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure2",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure2",
+                "hasImage": true
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P2 > P3",
+                    "P2 = P1 > P3",
+                    "P3 = P2 > P1",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure3",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure3",
+                "hasImage": true
+            }
+        ]
+       },
+       {
+        "name": "Scene3",
+        "questions":[
+            {
+                "body": "Identify the electric field for the positive and negative charged particles",
+                "options": [
+                    "answer1",
+                    "answer2",
+                    "answer3",
+                    "answer4"
+                ],
+                "figure": "",
+                "hasImage": false
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P2 > P3",
+                    "P2 = P1 > P3",
+                    "P3 = P2 > P1",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure1",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure1",
+                "hasImage": true
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P2 > P3",
+                    "P2 > P1 = P3",
+                    "P1 > P2 = P3",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure2",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure2",
+                "hasImage": true
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P2 > P3",
+                    "P2 = P1 > P3",
+                    "P3 = P2 > P1",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure3",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure3",
+                "hasImage": true
+            }
+        ]
+       },
+       {
+        "name": "Scene4",
+        "questions":[
+            {
+                "body": "Identify the electric field for the positively charged particle and two negatively charged particles",
+                "options": [
+                    "answer1",
+                    "answer2",
+                    "answer3",
+                    "answer4"
+                ],
+                "figure": "",
+                "hasImage": false
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P3 > P2",
+                    "P1 > P2 > P3",
+                    "P3 > P1 > P2",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure1",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure1",
+                "hasImage": true
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P3 > P2",
+                    "P1 > P2 > P3",
+                    "P3 > P1 > P2",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure2",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure2",
+                "hasImage": true
+            },
+            {
+                "body": "Rank the points (P1, P2, and P3) according to their force value. ",
+                "options": [
+                    "P1 > P2 > P3",
+                    "P2 = P1 > P3",
+                    "P3 = P2 > P1",
+                    "P1 = P2 = P3"
+                ],
+                "figure": "figure3",
+                "hasImage": true
+            },
+            {
+                "body": "Describe the differences between the electric field on P1, P2, and P3 points",
+                "options": [],
+                "figure": "figure3",
+                "hasImage": true
+            },
+            {
+                "body": "From the previous scenes, which are the factors that influence the electric force value on the interest Points?",
+                "options": [],
+                "figure": "",
+                "hasImage": false
+            },
+            {
+                "body": "Which are the main differences between the scenes?",
+                "options": [],
+                "figure": "",
+                "hasImage": false
+            }
+        ]
+       }
+    ]
+}
